@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 191.78 212.22">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #010101;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #010101;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M97.35,193.06c35.8,0,67.03-19.46,83.76-48.36-16.73-28.9-47.96-48.36-83.76-48.36S30.32,115.79,13.59,144.7c16.73,28.9,47.96,48.36,83.76,48.36Z"/>
+  <circle class="cls-4" cx="100.17" cy="142.87" r="24.73"/>
+  <line class="cls-1" x1="113.81" y1="21.99" x2="113.81" y2="121.27"/>
+  <g>
+    <polyline class="cls-1" points="65.3 55.96 65.3 80.5 83.37 96.99 83.37 126.07"/>
+    <circle class="cls-5" cx="65.42" cy="51.56" r="4.42"/>
+  </g>
+  <polyline class="cls-1" points="145.39 40.52 131.46 56.33 132.21 80.81 114.57 97.83"/>
+  <polyline class="cls-1" points="77.58 71.58 94.57 88.33 94.71 116.8"/>
+  <g>
+    <polyline class="cls-1" points="86.47 42.22 86.47 66.76 104.54 83.25 104.54 117.7"/>
+    <circle class="cls-5" cx="86.84" cy="39.4" r="4.42"/>
+  </g>
+  <circle class="cls-5" cx="113.86" cy="16.79" r="4.42"/>
+  <circle class="cls-5" cx="147.2" cy="37.67" r="4.42"/>
+  <circle class="cls-5" cx="101.39" cy="67.82" r="4.42"/>
+  <circle class="cls-5" cx="75.73" cy="69.27" r="4.42"/>
+  <line class="cls-3" x1="102.85" y1="69.89" x2="113.91" y2="80.27"/>
+  <polyline class="cls-1" points="128.41 33.46 122.8 38.92 122.43 76.94"/>
+  <circle class="cls-5" cx="130.07" cy="30.84" r="4.42"/>
+  <g>
+    <circle class="cls-5" cx="86.94" cy="20.29" r="4.42"/>
+    <polyline class="cls-1" points="89.39 22.73 101.81 34.03 101.81 55.2"/>
+  </g>
+</svg>
