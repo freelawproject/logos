@@ -8,7 +8,7 @@ fun or useful. In time, I expect we'll slowly refine this.
 
 In general:
 
- - Use the most recent version of a logo.
+ - Use the most recent version of a logo (most are versioned).
  - Aside from small tweaks like resizing, do not modify the logos in this 
    repository before using them.
  - If you need a logo in a size that's not available, use the SVG or AI files
@@ -18,8 +18,5 @@ In general:
 
 ## Copyright
 
-The images in this repo are licensed under the permissive [Creative Commons 
-Zero license][0], but note that Free Law Project has trademarked many of its 
-brands.
-
-[0]: https://creativecommons.org/public-domain/cc0/
+The images in this repo are copyright Free Law Project, all rights reserved.
+Please contact info@free.law for usage guidance.
