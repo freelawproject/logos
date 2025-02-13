@@ -2,11 +2,19 @@ This folder has virtual backgrounds for Google Meet and other platforms.
 
 # The current items
 
+## Google Meet
+
 There are several backgrounds in the `google-meet` directory. They are also 
 available in the effects panel of Google Meet, if you're using a free.law
 email address.
 
 The backgrounds were found on Unsplash.
+
+## Zoom
+
+The backgrounds in the `google-meet` directory work for Zoom too! You can 
+set up Zoom before your meeting if you have it installed.
+
 
 # Adding another image
 
